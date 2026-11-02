@@ -15,17 +15,13 @@ I want to build software people actually need, especially for healthcare, educat
 
 `TypeScript` `React` `Vite` `Tailwind` `TanStack Query` · `Python` `FastAPI` `Node.js` `C# / .NET` `Java / Spring Boot` `Kotlin` · `PostgreSQL` `Supabase` `SQLite` · `AWS` `Docker` `GitHub Actions` · `LLM APIs` `MCP`
 
-**Contact**: [LinkedIn](https://www.linkedin.com/in/uma-mahmutovic/) · [umamahmutovic@gmail.com](mailto:umamahmutovic@gmail.com)
+**Contact**: [LinkedIn](https://www.linkedin.com/in/uma-mahmutovic/) · [umamahmutovic@gmail.com](mailto:umamahmutovic@gmail.com) · [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uma.mht)
 
 
-##Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uma.mht)
-
-
-# GitHub Stats:
+# GitHub Stats: #
 ![](https://streak-stats.demolab.com/?user=umahmutovi1&theme=dark&hide_border=false)<br/>
 
-### Random Dev Quote
+### Random Dev Quote ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

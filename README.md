@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 
-Hi, I'm Uma
+Hi, I'm Uma 👾
 
 Full-stack developer from Sarajevo. I build web products end to end: React/TypeScript frontends, Python and Node backends, Postgres, cloud delivery and LLM features.
 BSc in Computing and Informatics, Faculty of Electrical Engineering, University of Sarajevo (2026).

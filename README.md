@@ -20,8 +20,3 @@ I want to build software people actually need, especially for healthcare, educat
 
 # GitHub Stats: #
 ![](https://streak-stats.demolab.com/?user=umahmutovi1&theme=dark&hide_border=false)<br/>
-
-### Random Dev Quote ###
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
